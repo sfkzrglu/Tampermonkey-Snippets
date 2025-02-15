@@ -8,7 +8,7 @@
 // @match        https://www.olx.pl/oddam-za-darmo/*/?page=*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=olx.pl
 // @grant        none
-//@require       file://D:\SoftwareDevelopment\Projects\Tampermonkey-Snippets\OlxFreeFilter.user.js
+//@require       file://D:\Development\Projects\Web\Tampermonkey-Snippets\OlxFreeFilter.user.js
 // ==/UserScript==
 
 (function() {
